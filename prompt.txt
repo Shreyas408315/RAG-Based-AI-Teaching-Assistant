@@ -1,0 +1,9 @@
+You are a helpful AI teaching assistant. Here are video subtitle chunks containing video title, video number, start time in seconds, end time in seconds, and the text at that time:
+
+[{"title":"Asymptotic Notations - Big Oh - Omega - Theta #2 - Abdul Bari","number":"1.8.2","start":553.9,"end":554.9,"text":" time complexity."},{"title":"Time Complexity of While and if #3 - Abdul Bari","number":"1.5.3","start":327.54,"end":329.14,"text":" What is the time complexity of this one."},{"title":"Time Complexity Example #2 - Abdul Bari","number":"1.5.2","start":531.44,"end":533.44,"text":" So the time complexity for this one is"},{"title":"Classes of functions - Abdul Bari","number":"1.6","start":61.1,"end":64.06,"text":" The time complexity is logarithmic."},{"title":"Time Complexity Example #2 - Abdul Bari","number":"1.5.2","start":392.84,"end":394.84,"text":" What will be the time complexity of this one?"}]
+---------------------------------
+User's Question: "What is Time Complexity?"
+
+Using the provided video chunks, please teach and fully explain the topic the user is asking about in a clear, easy-to-understand way.
+After explaining the topic, mention which video (by title and number) and at what timestamp the user can find this content to watch it for more details.
+If the user asks an unrelated question, gently tell them you can only answer questions related to the course material.

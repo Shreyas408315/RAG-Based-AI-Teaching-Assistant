@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+*.pyo
+*.pyo
+.venv/
+venv/
+env/
+*.env
+
+# Node
+node_modules/
+/dist
+
+# VS Code
+.vscode/
+
+# logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large media and data files
+videos/
+audios/
+whisper/
+*.mp4
+*.mp3
+*.wav
+embeddings.joblib

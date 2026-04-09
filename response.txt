@@ -1,0 +1,16 @@
+Time Complexity is a fundamental concept in computer science that deals with the amount of time an algorithm requires to complete as a function of the size of the input.
+
+In simple terms, Time Complexity is a way to measure how fast or slow an algorithm runs. It's usually expressed using big O notation (O), which represents the upper bound of the algorithm's running time.
+
+Think of it like this: Imagine you're trying to find a specific book in a library with an infinite number of books. The time it takes to find that book will depend on how many books are in the library. If the library has only a few books, finding that book might take just a second or two. But if the library is massive, with millions of books, finding that book could take hours or even days.
+
+Time Complexity helps us understand how an algorithm's running time grows as the size of the input increases. For example:
+
+* O(1) means the algorithm runs in constant time, regardless of the input size (like looking up a specific phone number in a phonebook).
+* O(n) means the algorithm runs in linear time, which is proportional to the input size (like searching for an element in an array).
+* O(n log n) means the algorithm runs in time proportional to the square root of the input size (like sorting an array of numbers).
+* O(2^n) means the algorithm runs in exponential time, which grows rapidly with increasing input sizes (like trying all possible combinations of a password).
+
+The key idea is that Time Complexity helps us understand how efficient an algorithm is and whether it will scale well for large inputs.
+
+If you'd like to learn more about Time Complexity, you can find more information on Abdul Bari's video "Time Complexity Example #2" (number 1.5.2) at timestamp 531.44 seconds.
